@@ -4,6 +4,8 @@ rencana konten wpu
 *frame work javascrip
 *angular
 *reach
+*vue
+-struktur  data dasar
 -php framework
 *laravel
 -interview
