@@ -8,3 +8,4 @@ rencana konten wpu
 *laravel
 -interview
 -vlog
+-python
