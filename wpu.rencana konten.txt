@@ -2,6 +2,7 @@ rencana konten wpu
 -java scrip
 *es6
 *frame work javascrip
+-srtruktur data dasar
 -php framework
 -interview
 -vlog
