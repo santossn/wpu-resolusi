@@ -3,6 +3,7 @@ rencana konten wpu
 *es6
 *frame work javascrip
 -view
+-rech
 -srtruktur data dasar
 -php framework
 -laravel
